@@ -2,7 +2,7 @@
 
 Find-painel-Admin e um software de bruterfoce<br>
 para achar painel administrativo do site de forma<br>
-automática e menos cansativa<br<br>
+automática e menos cansativa<br><br>
 
 
 [+] Instalação da ferramenta<br><br>
