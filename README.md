@@ -1,4 +1,4 @@
-# PainelAdmin<br><br>
+# Find-Painel-Admin<br><br>
 
 Find-painel-Admin e um software de bruterfoce<br>
 para achar painel administrativo do site de forma<br>
