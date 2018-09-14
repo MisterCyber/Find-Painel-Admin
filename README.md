@@ -7,13 +7,13 @@ automática e menos cansativa<br<br>
 
 [+] Instalação da ferramenta<br><br>
 
-• apt-get update<br>
-• apt-get install python3<br>
+• pkg update<br>
+• pkg install python3<br>
 • pip install requests<br>
-• apt-get install git <br>
-• git clone 
+• pkg install git <br>
+• git clone https://github.com/MisterCyber/Find-Painel-Admin<br>
 • cd Find-Painel-Admin<br>
-• chmod +x FIND-painel-ADMIN.py<br>
-• python3 FIND-painel-ADMIN.py<br>
+• chmod +x FIND-painel-ADMIN.py <br>
+• python3 FIND-painel-ADMIN.py <br>
 
  
